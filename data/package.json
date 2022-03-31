@@ -1,0 +1,17 @@
+{
+  "name": "convert-graphson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^2.0.0",
+    "fast-csv": "^2.4.1",
+    "gremlin": "^2.6.0",
+    "xmlbuilder": "^9.0.4"
+  }
+}
